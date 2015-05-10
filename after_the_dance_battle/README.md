@@ -28,7 +28,7 @@ Return the number of steps required to reach the exit from the starting point.
 2 <= R, C <= 100  
 
 <H3>Example input file:  
-
+<pre><code>
 5  
 5 3  
 00S  
@@ -114,11 +114,14 @@ WW00WW00W0W0400
 W602000000W05W0  
 090000000000W0W  
 WWWWWW000000EW0  
-  
+</code></pre>
+
 <H3>Example Output (newline after number):  
 
+<pre><code>
 Case #1: 6  
 Case #2: 11  
 Case #3: 11  
 Case #4: 15  
 Case #5: 13  
+</code></pre>
