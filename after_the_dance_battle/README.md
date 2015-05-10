@@ -117,7 +117,6 @@ WWWWWW000000EW0
 </code></pre>
 
 <H3>Example Output (newline after number):  
-
 <pre><code>
 Case #1: 6  
 Case #2: 11  
